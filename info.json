@@ -1,0 +1,8 @@
+{
+  "offline": false,
+  "version": "0.1.0",
+  "rbx_client_version": "N/A",
+  "bootstrapper_ver": "0.1.9",
+  "updater_version": "0.3",
+  "Changelog": "Changed how functions are registered, Added extra validation checks, Fixed custom UI's not working, Updated for latest Roblox version"
+}
